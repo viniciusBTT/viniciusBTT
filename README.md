@@ -1,24 +1,34 @@
-## Olá! Eu sou o Vinicios
+
 
 
 
 
 <div align="center">
+  <div>
+    <h1> Olá! Eu sou o Vinicius</h1>
+    <p> desenvolvedor front-end me aventurando pelo mundo do back-end com java </p>
+  </div>
   <a href="https://github.com/viniciusBTT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adriel21&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel21&layout=compact&langs_count=7&theme=gotham "/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusBTT&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  
 <div style="display: inline_block"><br>
+          
   <img align="center" alt="Adriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Adriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Adriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Adriel-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Adriel-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Adriel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Adriel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Adriel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ 
+
+  
+  
   
 
+  </div>
 </div>
+
   
   ##
  
